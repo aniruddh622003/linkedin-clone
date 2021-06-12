@@ -18,7 +18,7 @@ export default function Login(props) {
         </Hero>
         <Form>
           <Google>
-            <img src="/Images/google.svg" />
+            <img src="Images/google.svg" />
             Sign In with Google
           </Google>
         </Form>
